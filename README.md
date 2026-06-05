@@ -79,6 +79,10 @@ Tra i temi che sto esplorando:
 Alcuni progetti sono ancora privati o in fase di sviluppo. In futuro pubblicherò più repository quando saranno sufficientemente maturi e corredati da licenze, documentazione e struttura adeguata.
 
 ---
+NB: a partire da maggio 2026 ho iniziato a rendere pubblici su GitHub alcuni progetti sviluppati negli anni. 
+I repository verranno aggiornati progressivamente, insieme a nuovi progetti selezionati, mantenendo privati i codici non ancora maturi o non destinati alla pubblicazione.
+
+Contestualmente ho avviato un rebranding della mia presenza online, inclusi nome utente, immagine profilo e canali ufficiali. Eventuali vecchi account o alias ancora presenti (e forse attivi) online non rappresentano la mia identità pubblica principale e non verranno utilizzati come fonti ufficiali.
 
 ## Tecnologie e strumenti
 
@@ -88,4 +92,4 @@ Alcune tecnologie, linguaggi e strumenti che uso o studio:
 HTML · CSS · JavaScript · PHP · Python · WordPress
 Git · GitHub · Linux · VPS · Cloudflare
 AI Tools · Automation · OSINT · Cybersecurity
-Telegram Bot · ChromaDB · API Integration
+Telegram Bot · ChromaDB · API Integration · Assembly · varie
