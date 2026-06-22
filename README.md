@@ -1,95 +1,57 @@
 # Ciao, sono Gabriele Viola 👋
 
-Sono un **Web Designer, Web Developer, Formatore, Consulente, Ethical Hacker e Autore**.
+**Web Developer | Formatore IT | Consulente Digitale | Ethical Hacker**
 
-Mi occupo principalmente di sviluppo web, formazione informatica, consulenza digitale e progetti legati ad automazione, sicurezza e intelligenza artificiale.
+Mi occupo di sviluppo web, formazione informatica aziendale, consulenza tecnica e progetti legati a sicurezza, automazione e intelligenza artificiale. 
 
-Il mio lavoro unisce una parte pratica e operativa — siti web, strumenti digitali, automazioni, codice — con una forte attenzione alla semplicità, alla chiarezza e all’utilità reale delle soluzioni.
+Il mio lavoro unisce l'operatività tecnica — scrittura di codice, configurazione di infrastrutture, automazioni — a una forte attenzione per la chiarezza, puntando a soluzioni digitali che siano realmente utili, sostenibili e prive di complessità inutili.
 
-🌐 Sito web: [gabrieleviola.it](https://www.gabrieleviola.it/)  
-💼 LinkedIn: [Gabriele Viola](https://it.linkedin.com/in/gabriele-viola)
-
----
-
-## Di cosa mi occupo
-
-### Web Design & Web Development
-
-Realizzo siti web, landing page e soluzioni digitali per professionisti, attività locali e progetti online.
-
-Lavoro soprattutto su:
-
-- siti web professionali
-- WordPress
-- HTML, CSS e JavaScript
-- ottimizzazione della presenza online
-- consulenza tecnica per progetti digitali
-- manutenzione e miglioramento di siti esistenti
-
-Il mio obiettivo è creare strumenti chiari, funzionali e sostenibili, evitando complessità inutili.
+[![Website](https://img.shields.io/badge/Website-gabrieleviola.it-blue?style=flat&logo=google-chrome)](https://www.gabrieleviola.it/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriele_Viola-blue?style=flat&logo=linkedin)](https://it.linkedin.com/in/gabriele-viola)
 
 ---
 
-### Formazione & Consulenza
+## 🛠️ Di cosa mi occupo
 
-Affianco persone, professionisti e realtà aziendali nella comprensione e nell’uso pratico della tecnologia.
+### 🌐 Web Design & Development
+Realizzo siti web, landing page e soluzioni digitali per professionisti, attività locali e Pubblica Amministrazione (tramite MEPA).
+* **Sviluppo:** HTML, CSS, JavaScript, PHP, Python.
+* **CMS & Ecosistemi:** Ottimizzazione e sviluppo avanzato su base WordPress.
+* **Consulenza:** Manutenzione, miglioramento di applicativi esistenti e scelte architetturali.
 
-Mi occupo di formazione su temi come:
+### 📚 Formazione & Consulenza
+Da anni affianco aziende, enti e professionisti nell'uso pratico della tecnologia, abbattendo le barriere tecniche.
+* **Docenza:** Formazione per corsi aziendali e percorsi ministeriali (es. programma GOL).
+* **Tematiche:** Sicurezza informatica di base, sviluppo web, automazione e produttività digitale.
+* **Approccio:** Concreto, orientato alla pratica e all'uso consapevole, in particolare per i nuovi strumenti basati su Intelligenza Artificiale.
 
-- strumenti digitali
-- sicurezza informatica di base
-- sviluppo web
-- uso consapevole dell’intelligenza artificiale
-- automazione e produttività digitale
+### 🛡️ Cybersecurity & Ethical Hacking
+Mi interesso di sicurezza informatica, auditing e OSINT con un approccio rigorosamente etico, metodico e documentato, con particolare interesse per contesti complessi e settori strategici (come la Difesa).
+* Analisi della superficie d’attacco e Vulnerability Assessment.
+* Hardening di server e applicazioni web.
+* Ricerca OSINT e formazione sulle buone pratiche di sicurezza digitale.
 
-Credo in una formazione concreta, comprensibile e orientata all’applicazione pratica.
-
----
-
-### Cybersecurity & Ethical Hacking
-
-Mi interesso di sicurezza informatica, auditing, OSINT e analisi tecnica con un approccio etico e controllato.
-
-Le aree che seguo includono:
-
-- sicurezza web
-- analisi della superficie d’attacco
-- OSINT
-- vulnerability assessment
-- hardening e buone pratiche di sicurezza
-- formazione sulla sicurezza digitale
-
-Ogni attività di sicurezza viene svolta esclusivamente in contesti autorizzati, leciti e documentati.
+### 🤖 AI, Automazione & R&D
+Sto sviluppando strumenti sperimentali per ottimizzare flussi di lavoro e ricerca.
+* Assistenti personali basati su AI e integrazioni tramite API (es. bot Telegram).
+* Memoria semantica e recupero informazioni (RAG, ChromaDB).
+* Architetture leggere e modulari per l'automazione operativa.
 
 ---
 
-### AI, Automazione & Progetti personali
+## 💻 Tecnologie e Strumenti
 
-Sto sviluppando strumenti personali e sperimentali legati ad assistenti AI, automazioni operative e flussi di lavoro intelligenti.
-
-Tra i temi che sto esplorando:
-
-- assistenti personali basati su AI
-- memoria semantica e recupero informazioni
-- integrazione con Telegram
-- automazione di workflow
-- strumenti per sviluppo, ricerca e produttività
-- architetture leggere e modulari
-
-Alcuni progetti sono ancora privati o in fase di sviluppo. In futuro pubblicherò più repository quando saranno sufficientemente maturi e corredati da licenze, documentazione e struttura adeguata.
+| Categoria | Stack |
+| :--- | :--- |
+| **Sviluppo Web** | HTML5, CSS3, JavaScript, PHP, WordPress |
+| **Backend & Scripting** | Python, API REST, Assembly |
+| **Sistemi & DevOps** | Linux, VPS Management, Cloudflare, Git, GitHub |
+| **Security & OSINT** | Strumenti di auditing, Vulnerability Assessment, Tecniche OSINT |
+| **AI & Data** | AI Tools, ChromaDB, LLM Integration |
 
 ---
-NB: a partire da maggio 2026 ho iniziato a rendere pubblici su GitHub alcuni progetti sviluppati negli anni. 
-I repository verranno aggiornati progressivamente, insieme a nuovi progetti selezionati, mantenendo privati i codici non ancora maturi o non destinati alla pubblicazione.
 
-Contestualmente ho avviato un rebranding della mia presenza online, inclusi nome utente, immagine profilo e canali ufficiali. Eventuali vecchi account o alias ancora presenti (e forse attivi) online non rappresentano la mia identità pubblica principale e non verranno utilizzati come fonti ufficiali.
-
-## Tecnologie e strumenti
-
-Alcune tecnologie, linguaggi e strumenti che uso o studio:
-
-```text
-HTML · CSS · JavaScript · PHP · Python · WordPress
-Git · GitHub · Linux · VPS · Cloudflare
-AI Tools · Automation · OSINT · Cybersecurity
-Telegram Bot · ChromaDB · API Integration · Assembly · varie
+> **Note Operative e Rebranding (2026)**
+> A partire da maggio 2026, ho iniziato a rendere pubblici su GitHub alcuni progetti sviluppati negli anni. I repository (inclusi quelli legati allo sviluppo web, all'AI e alla sicurezza) verranno aggiornati e rilasciati progressivamente con adeguata documentazione, mantenendo privati i codici non ancora maturi.
+> 
+> *Contestualmente ho avviato un rebranding della mia presenza online (nome utente, immagine, canali ufficiali). Eventuali vecchi account o alias ancora presenti in rete non rappresentano la mia identità pubblica principale e non vanno considerati come fonti ufficiali.*
