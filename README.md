@@ -1,57 +1,53 @@
 # Ciao, sono Gabriele Viola 👋
 
-**Web Developer | Formatore IT | Consulente Digitale | Ethical Hacker**
+## AI Engineer | Web Developer | Formatore IT | Consulente Digitale | Ethical Hacker
 
-Mi occupo di sviluppo web, formazione informatica aziendale, consulenza tecnica e progetti legati a sicurezza, automazione e intelligenza artificiale. 
-
-Il mio lavoro unisce l'operatività tecnica — scrittura di codice, configurazione di infrastrutture, automazioni — a una forte attenzione per la chiarezza, puntando a soluzioni digitali che siano realmente utili, sostenibili e prive di complessità inutili.
+Unisco il rigore della **Psicologia Cognitiva** (L-24) alla versatilità dell'**Ingegneria AI** e della **Cybersecurity**. Progetto soluzioni digitali che non si limitano a funzionare, ma sono modellate sulla comprensione dei processi mentali e dell'esperienza utente.
 
 [![Website](https://img.shields.io/badge/Website-gabrieleviola.it-blue?style=flat&logo=google-chrome)](https://www.gabrieleviola.it/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriele_Viola-blue?style=flat&logo=linkedin)](https://it.linkedin.com/in/gabriele-viola)
+[![Email](https://img.shields.io/badge/Email-business@gabrieleviola.it-red?style=flat&logo=gmail)](mailto:business@gabrieleviola.it)
 
 ---
 
-## 🛠️ Di cosa mi occupo
+### 🚀 Progetto in Evidenza: Raptor
+**Assistente Cognitivo Modulare** | [Vai al repository](https://github.com/gabrieleviolait/raptor-public)
 
-### 🌐 Web Design & Development
-Realizzo siti web, landing page e soluzioni digitali per professionisti, attività locali e Pubblica Amministrazione (tramite MEPA).
-* **Sviluppo:** HTML, CSS, JavaScript, PHP, Python.
-* **CMS & Ecosistemi:** Ottimizzazione e sviluppo avanzato su base WordPress.
-* **Consulenza:** Manutenzione, miglioramento di applicativi esistenti e scelte architetturali.
-
-### 📚 Formazione & Consulenza
-Da anni affianco aziende, enti e professionisti nell'uso pratico della tecnologia, abbattendo le barriere tecniche.
-* **Docenza:** Formazione per corsi aziendali e percorsi finanziati (es. programma GOL).
-* **Tematiche:** Sicurezza informatica di base, office automation e produttività digitale.
-* **Approccio:** Concreto, orientato alla pratica e all'uso consapevole, in particolare per i nuovi strumenti basati su Intelligenza Artificiale.
-
-### 🛡️ Cybersecurity & Ethical Hacking
-Mi interesso di sicurezza informatica, auditing e OSINT con un approccio rigorosamente etico, metodico e documentato, con particolare interesse per contesti complessi e settori strategici (come la Difesa).
-* Analisi della superficie d’attacco e Vulnerability Assessment.
-* Hardening di server e applicazioni web.
-* Ricerca OSINT e formazione sulle buone pratiche di sicurezza digitale.
-
-### 🤖 AI, Automazione & R&D
-Sto sviluppando strumenti sperimentali per ottimizzare flussi di lavoro e ricerca.
-* Assistenti personali basati su AI e integrazioni tramite API (es. bot Telegram).
-* Memoria semantica e recupero informazioni (RAG, ChromaDB).
-* Architetture leggere e modulari per l'automazione operativa.
+Raptor è un'architettura AI che integra memoria semantica vettoriale (ChromaDB) e orchestrazione di modelli per automatizzare workflow complessi.
+*   **Core:** Python, ChromaDB, Ollama, CrewAI.
+*   **Focus:** Integrazione API, Knowledge Pipelines e Automazione Operativa su infrastruttura OCI.
 
 ---
 
-## 💻 Tecnologie e Strumenti
+### 🛠️ Aree di Expertise
 
-| Categoria | Stack |
+*   **🤖 AI Engineering:** Sviluppo di agenti, RAG (Retrieval-Augmented Generation) e automazione workflow.
+*   **🌐 Web & Cloud:** Sviluppo Full-Stack (PHP, JS, Python), WordPress avanzato e gestione infrastrutture.
+*   **🛡️ Cybersecurity:** Ricerca in ambito Offensive/Defensive, Vulnerability Assessment, OSINT e Hardening (Certificato C|CT).
+*   **📚 Formazione & Consulenza:** Docenza IT, formazione aziendale e orientamento all'uso consapevole di strumenti AI.
+
+---
+
+### 💻 Tech Stack & Competenze
+
+| Categoria | Tecnologie |
 | :--- | :--- |
-| **Sviluppo Web** | HTML5, CSS3, JavaScript, PHP, WordPress |
-| **Backend & Scripting** | Python, API REST, Assembly |
-| **Sistemi & DevOps** | Linux, VPS Management, Cloudflare, Git, GitHub |
-| **Security & OSINT** | Strumenti di auditing, Vulnerability Assessment, Tecniche OSINT |
-| **AI & Data** | AI Tools, ChromaDB, LLM Integration |
+| **AI & Data** | Python, ChromaDB, LLM (OpenAI/Ollama/Groq), RAG |
+| **Security & OSINT** | Linux, Wireshark, Nmap, Vulnerability Assessment, C|CT |
+| **Web & Backend** | PHP, JavaScript, HTML5, CSS3, SQL, WordPress |
+| **DevOps & Infrastructure** | Linux, OCI, Cloudflare, Git, Docker |
 
 ---
 
-> **Note Operative e Rebranding (2026)**
-> A partire da maggio 2026, ho iniziato a rendere pubblici su GitHub alcuni progetti sviluppati negli anni. I repository (inclusi quelli legati allo sviluppo web, all'AI e alla sicurezza) verranno aggiornati e rilasciati progressivamente con adeguata documentazione, mantenendo privati i codici non ancora maturi.
-> 
-> *Contestualmente ho avviato un rebranding della mia presenza online (nome utente, immagine, canali ufficiali). Eventuali vecchi account o alias ancora presenti in rete non rappresentano la mia identità pubblica principale e non vanno considerati come fonti ufficiali.*
+### 📜 Certificazioni Principali
+*   **Certified Cybersecurity Technician (C|CT)** - EC-Council (2026)
+*   **Master di I livello in Cybersecurity** (In corso)
+*   **Forward Program** - McKinsey.org
+
+---
+
+> **Note Operative (2026)**
+> Sto rendendo pubblici progressivamente i progetti che riflettono la mia evoluzione professionale verso l'AI e la Cyber. Codici legacy o alias non rappresentano la mia identità tecnica principale.
+
+---
+*Ultimo aggiornamento: Luglio 2026*
