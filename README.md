@@ -21,8 +21,8 @@ Realizzo siti web, landing page e soluzioni digitali per professionisti, attivit
 
 ### 📚 Formazione & Consulenza
 Da anni affianco aziende, enti e professionisti nell'uso pratico della tecnologia, abbattendo le barriere tecniche.
-* **Docenza:** Formazione per corsi aziendali e percorsi ministeriali (es. programma GOL).
-* **Tematiche:** Sicurezza informatica di base, sviluppo web, automazione e produttività digitale.
+* **Docenza:** Formazione per corsi aziendali e percorsi finanziati (es. programma GOL).
+* **Tematiche:** Sicurezza informatica di base, office automation e produttività digitale.
 * **Approccio:** Concreto, orientato alla pratica e all'uso consapevole, in particolare per i nuovi strumenti basati su Intelligenza Artificiale.
 
 ### 🛡️ Cybersecurity & Ethical Hacking
