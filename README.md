@@ -39,7 +39,7 @@ Raptor è un'architettura AI che integra memoria semantica vettoriale (ChromaDB)
 
 ---
 
-### 📜 Certificazioni Principali
+### 📜 Certificazioni Principali, certificati e titoli di studio
 *   **Certified Cybersecurity Technician (C|CT)** - EC-Council (2026)
 *   **Master di I livello in Cybersecurity** (In corso)
 *   **Forward Program** - McKinsey.org
