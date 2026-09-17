@@ -16,8 +16,8 @@ Unisco il rigore della **Psicologia Cognitiva** (L-24) alla versatilità dell'**
 
 Portfolio pubblico e sanitizzato con case study su:
 
-* **NoName057(16) / DDoSia** — hacktivism, Telegram monitoring, DDoS ecosystem e source validation.
-* **LockBit 3.0 / 4.0** — ransomware/RaaS, dark-web leak infrastructure e Operation Cronos.
+* **NoName057(16) / DDoSia** — hacktivism, evoluzione delle fonti, Telegram/community monitoring, independent telemetry, DDoS ecosystem e source validation.
+* **LockBit 3.0 / 4.0 / 5.0** — ransomware/RaaS, dark-web leak infrastructure, Operation Cronos e longitudinal actor tracking.
 * **Black Basta** — analisi di comunicazioni criminali trapelate, correlazione multi-fonte, TTP e confidence assessment.
 
 Il materiale pubblico esclude deliberatamente accessi, research identities, onion live, dati personali e informazioni operative non necessarie. Un evidence portfolio esteso può essere condiviso privatamente in contesti professionali.
