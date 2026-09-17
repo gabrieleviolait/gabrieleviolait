@@ -1,15 +1,15 @@
-# Case Study 02 — LockBit 3.0 / 4.0
+# Case Study 02 — LockBit 3.0 / 4.0 / 5.0
 ## Ransomware-as-a-Service resilience after Operation Cronos
 
 **Focus:** Ransomware · Tor monitoring · Data Leak Sites · RaaS ecosystem · Law-enforcement disruption  
 **Research type:** Independent, passive CTI research  
 **Analyst background:** Historical passive monitoring of LockBit-associated leak infrastructure and actor-controlled sources, correlated with law-enforcement and technical reporting.
 
-> **Publication note:** This public version intentionally omits live onion addresses, access-enabling details and raw leaked material.
+> **Publication note:** This public version intentionally omits live onion addresses, access-enabling details, victim-specific raw material and operationally sensitive source information.
 
 ## Intelligence Requirement
 
-**To what extent did Operation Cronos disrupt LockBit as an organisation, and what did subsequent attempts to relaunch infrastructure and develop LockBit 4.0 reveal about the resilience of the underlying RaaS ecosystem?**
+**To what extent did Operation Cronos disrupt LockBit as an organisation, and what did subsequent attempts to relaunch infrastructure and develop later LockBit generations reveal about the resilience of the underlying RaaS ecosystem?**
 
 ## Analytic model
 
@@ -55,13 +55,30 @@ Trend Micro, working with the NCA, analysed an in-development LockBit codebase t
 
 The existence of a new codebase demonstrates continued technical development, but it does not by itself prove that the surrounding RaaS ecosystem recovered. Malware capability and organisational resilience need to be assessed separately.
 
+### 5. Later LockBit 5.0-branded infrastructure is a continuity signal, not proof of full recovery
+
+**Current analyst observation — 17 September 2026:** I directly observed a **LockBit 5.0-branded leak portal** accessible through Tor. The public portfolio intentionally omits the live onion address and raw victim-list material.
+
+This observation supports a narrow conclusion with **high confidence**: LockBit-branded public-facing infrastructure remained operationally present at the time of observation.
+
+It does **not** automatically prove that:
+
+- every listed victim claim is accurate;
+- every incident was conducted by the same core operators;
+- affiliate participation returned to pre-Cronos levels;
+- ecosystem trust, negotiation capacity or revenue fully recovered.
+
+For CTI purposes, the existence of a current leak site should therefore be treated as **infrastructure / brand continuity evidence**, then correlated with independent incident reporting, affiliate activity, malware telemetry and law-enforcement intelligence.
+
 ## Analytic assessment
 
 **High confidence:** Operation Cronos materially degraded LockBit's infrastructure and exposed its affiliate ecosystem.
 
 **High confidence:** LockBit attempted to rebuild public-facing infrastructure and continue development after the disruption.
 
-**Moderate confidence:** The long-term health of the RaaS brand after disruption depends substantially on affiliate trust, recruitment, infrastructure security and reputation, not only on availability of a new ransomware build.
+**High confidence:** LockBit 5.0-branded public-facing infrastructure was directly observable by the analyst on 17 September 2026.
+
+**Moderate confidence:** The long-term health of the RaaS brand after disruption depends substantially on affiliate trust, recruitment, infrastructure security and reputation, not only on availability of a new ransomware build or leak portal.
 
 The case demonstrates why CTI should distinguish:
 
@@ -84,11 +101,13 @@ Other techniques should be mapped to specific affiliate intrusions or independen
 - Which post-disruption victim claims reflected genuinely new LockBit activity versus recycled or misattributed activity?
 - How did reputation damage affect recruitment and negotiations compared with purely technical disruption?
 - To what extent did later versions restore capability without restoring ecosystem trust?
+- Which current LockBit 5.0 claims can be independently corroborated by victim disclosures, incident-response reporting or external telemetry?
 
 ## Skills demonstrated
 
 - ransomware leak-site monitoring;
 - RaaS ecosystem analysis;
+- current-source observation and provenance handling;
 - separation of malware and organisational intelligence;
 - law-enforcement disruption assessment;
 - source validation and confidence language;
