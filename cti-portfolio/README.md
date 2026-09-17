@@ -2,14 +2,14 @@
 
 **Gabriele Viola — Independent CTI / OSINT Research**
 
-This portfolio presents sanitized case studies demonstrating my approach to cyber threat intelligence, underground monitoring, source validation, actor/infrastructure research, and intelligence reporting.
+This portfolio presents sanitized case studies demonstrating my approach to cyber threat intelligence, underground monitoring, source validation, actor/infrastructure research, longitudinal collection and intelligence reporting.
 
-My independent research has included passive monitoring of open and restricted-access sources across Telegram, IRC and Tor-based services, with particular attention to hacktivist/DDoS ecosystems, ransomware/RaaS leak infrastructure, and threat-actor activity. I separate direct observations, actor claims, third-party reporting, and analytic inference, and I assign confidence accordingly.
+My independent research has included passive monitoring of open and restricted-access sources across Telegram, IRC and Tor-based services, with particular attention to hacktivist/DDoS ecosystems, ransomware/RaaS leak infrastructure, and threat-actor activity. I separate direct observations, actor claims, third-party reporting, independent telemetry and analytic inference, and I assign confidence accordingly.
 
 ## Case studies
 
-1. [NoName057(16) / DDoSia — Monitoring a volunteer-driven hacktivist DDoS ecosystem](01-noname-ddosia.md)
-2. [LockBit 3.0 / 4.0 — RaaS resilience after Operation Cronos](02-lockbit.md)
+1. [NoName057(16) / DDoSia — Monitoring an evolving pro-Russian hacktivist DDoS ecosystem](01-noname-ddosia.md)
+2. [LockBit 3.0 / 4.0 / 5.0 — RaaS resilience after Operation Cronos](02-lockbit.md)
 3. [Black Basta internal chat leak — Turning adversary communications into intelligence](03-black-basta.md)
 
 ## Methodology
@@ -25,11 +25,19 @@ Typical analytical elements include:
 - actor and alias tracking;
 - campaign and targeting timelines;
 - cross-source validation;
+- resilient collection when sources migrate or disappear;
+- independent technical telemetry correlation;
 - IOC/TTP enrichment;
 - MITRE ATT&CK mapping where evidence supports it;
-- distinction between claim, observation, corroborated fact and inference;
+- distinction between claim, direct observation, corroborated fact and inference;
 - confidence levels and information gaps;
 - OPSEC-aware handling of underground-source material.
+
+## Current-source handling
+
+Some cases are periodically updated with **sanitized current observations**. When I directly observe a live source, the public repository records only the analytic conclusion and source class needed to demonstrate methodology. Live onion addresses, raw victim material, private invitations and access-enabling details remain outside the public repository.
+
+The extended private portfolio contains additional provenance and selected screenshots for professional review.
 
 ## Public / private split
 
