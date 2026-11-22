@@ -104,6 +104,16 @@ On **20 November 2026**, Red Hot Cyber reported a newly accessible **.com surfac
 
 The new portal is **not the same as witha.name**, which is an independent DDoSia technical-monitoring service. The reported development matters because actor-facing communication appears to be expanding beyond Telegram and Tor to a more discoverable public web presence, potentially increasing recruitment reach and propaganda resilience. The portal's personally identifying 'Tribunal' material is **not reproduced or linked** here.
 
+### Source supplement — actor-branded communications directory (analyst-supplied, 22 November 2026)
+
+An analyst-supplied transcription of a purported **NoName057(16)-branded Tor portal** lists an actor-labelled main Telegram channel, a DDoSia project channel, multiple language-specific Telegram communities (English, Spanish, Italian, German and French), a backup channel, and an Element/Matrix room. Its navigation also advertises political messaging, media, DDoSia software, a 'Tribunal' section, news and alleged data leaks.
+
+**Evidence class:** analyst-provided page transcription / actor-branded primary-source material. These observations **have not been independently authenticated** by an investigator-controlled crawl, verified operator announcement, or technical attribution. The existence of a navigation item, recruitment offer or leak claim is not proof of actor control, real-world impact, or operational capability.
+
+**Analytic significance:** actor-labelled multilingual channels, cross-platform communication and redundant contact points are potentially useful signals of audience expansion, propaganda continuity and recovery after disruption. Future monitoring should record changes in claims and access paths separately from verified technical incidents.
+
+The private evidence index includes sanitized source-context notes. **No live onion URLs, invite tokens, downloads, named individuals or victim data are reproduced here.** This actor-branded portal must not be confused with independent telemetry at witha.name.
+
 ### 9. Broader claims: collaboration and industrial-system context
 
 A **4 November 2026** Rai News report describes a *jointly claimed* refrigeration-system incident by NoName057(16) and Z-Pentest. DarkOwl's November 2026 assessment additionally notes increased amplification of allied groups and claims concerning ICS/CCTV environments. These observations justify tracking collaboration and changes in messaging; **a joint claim is not proof of independently confirmed compromise**, and an allied group's claimed technique is not automatically attributable to every NoName057(16) campaign.
@@ -114,7 +124,7 @@ A **4 November 2026** Rai News report describes a *jointly claimed* refrigeratio
 - **Moderate confidence:** Reported new surface-web branding and allied-group messaging indicate an effort to diversify public reach and mobilisation.
 - **Low confidence / not established:** Actual incident success rates, direct ownership of the reported domain, completeness of external claim datasets, and expanded offensive capabilities claimed by the actor itself.
 
-**Collection and OPSEC note:** This is an open-source desk update based on independent publications, **not a fresh first-hand analyst capture**. No credentials, source personas, personal-data lists, current target configurations or links to actor recruitment/download infrastructure are included.
+**Collection and OPSEC note:** This update combines independently published desk research with a clearly labelled analyst-supplied portal transcription, **not an independently authenticated investigator-controlled capture**. No credentials, source personas, personal-data lists, current target configurations or links to actor recruitment/download infrastructure are included.
 
 ## Analytic assessment
 
