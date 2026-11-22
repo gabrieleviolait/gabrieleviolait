@@ -80,6 +80,42 @@ A resilient collection path therefore looks more like:
 
 This matters because threat actors can change platforms, lose channels, fragment their communications or deliberately manipulate their public narrative. A CTI workflow should preserve continuity even when the original source disappears.
 
+## November 2026 intelligence update (reviewed 22 November 2026)
+
+### 6. Sustained DDoS claim volume after Operation Eastwood
+
+A public CyberXTron monitoring report covering **1–16 November 2026** recorded **85 NoName057(16)-labelled DDoS claims across 14 active days**, tied with Dark Storm Team at the top of that report's actor ranking. The same report describes overlapping claimed target lists involving Spanish and German public-sector and transport organisations. This is **third-party collected claim data**, not 85 independently confirmed outages or successful attacks. The dataset's coverage and classification limitations apply.
+
+A separate Brandefense research dataset covering **1 January–27 October 2026** counted **578 NoName057(16) claim events** and **2,920 claimed target entries**, explicitly distinguishing posts, de-duplicated claims, listed targets and proven outcomes. These datasets are not directly additive or equivalent. They provide evidence of sustained public claim activity; neither establishes the operational effect of every listed event.
+
+**Analytic implication:** assess narrative and tasking tempo separately from independently verified availability impact. Avoid false precision when comparing collected social posts, events, technical target configurations and incidents.
+
+### 7. EU restrictive measures against the actor (16 November 2026)
+
+On **16 November 2026**, the **Council of the European Union formally listed NoName057(16)** under its cyber-related restrictive measures, identifying the group as a pro-Russian hacker actor that claims attacks against government bodies, critical infrastructure and private organisations. This is an **authoritative government action**, distinct from a vendor's actor-attribution assessment or a claim made by the group.
+
+The designation provides additional strategic context for assessing disruption, cross-border response and sanctions exposure. It does not, by itself, verify every specific attack claim or determine the individual operators behind current public channels.
+
+### 8. New actor-branded surface-web portal reported (20 November 2026)
+
+On **20 November 2026**, Red Hot Cyber reported a newly accessible **.com surface-web site branded NoName057(16)**. Its account describes pages for political messaging, DDoSia recruitment/gamified participation, public communications, links to messaging platforms, and a 'Tribunal' section concerning named individuals.
+
+**Source classification: third-party reporting of a purported actor-controlled web property.** The appearance and branding of the portal, as described in the report, should not be mistaken for independent verification of site ownership, recruitment success, the group's self-advertised capabilities (including phishing, malware or ransomware), any leak claims, or operational impact. I have **not independently verified the new domain's infrastructure or contents for this update**.
+
+The new portal is **not the same as witha.name**, which is an independent DDoSia technical-monitoring service. The reported development matters because actor-facing communication appears to be expanding beyond Telegram and Tor to a more discoverable public web presence, potentially increasing recruitment reach and propaganda resilience. The portal's personally identifying 'Tribunal' material is **not reproduced or linked** here.
+
+### 9. Broader claims: collaboration and industrial-system context
+
+A **4 November 2026** Rai News report describes a *jointly claimed* refrigeration-system incident by NoName057(16) and Z-Pentest. DarkOwl's November 2026 assessment additionally notes increased amplification of allied groups and claims concerning ICS/CCTV environments. These observations justify tracking collaboration and changes in messaging; **a joint claim is not proof of independently confirmed compromise**, and an allied group's claimed technique is not automatically attributable to every NoName057(16) campaign.
+
+**Updated assessment (22 November 2026)**
+
+- **High confidence:** The actor remains publicly associated with a substantial DDoS claim ecosystem, and EU authorities officially listed NoName057(16) on 16 November 2026.
+- **Moderate confidence:** Reported new surface-web branding and allied-group messaging indicate an effort to diversify public reach and mobilisation.
+- **Low confidence / not established:** Actual incident success rates, direct ownership of the reported domain, completeness of external claim datasets, and expanded offensive capabilities claimed by the actor itself.
+
+**Collection and OPSEC note:** This is an open-source desk update based on independent publications, **not a fresh first-hand analyst capture**. No credentials, source personas, personal-data lists, current target configurations or links to actor recruitment/download infrastructure are included.
+
 ## Analytic assessment
 
 **High confidence:** NoName057(16) combined ideological messaging, community mobilisation and centrally coordinated technical infrastructure.
@@ -130,6 +166,12 @@ Additional mappings should be campaign-specific and evidence-based rather than i
 4. Team Cymru — *The NoName Blog*: https://www.team-cymru.com/post/a-blog-with-noname
 5. Independent DDoSia monitoring — witha.name: https://witha.name/
 6. CIRCL Mastodon — @NoName57Bot: https://social.circl.lu/@NoName57Bot
+7. Council of the EU — *Russia's FIMI and malicious cyber activities: Council imposes sanctions* (16 November 2026): https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/russia-s-fimi-and-malicious-cyber-activities-council-imposes-sanctions-on-30-individuals-and-two-entities/
+8. CyberXTron — *Hacktivism Watch, 1–16 November 2026*: https://cyberxtron.com/resources/blogs/hacktivism-watch-the-biweekly-pulse-november-1-16-2026-8333
+9. Brandefense — *Hacktivism and DDoS: What the Claim Posts Record* (30 October 2026): https://brandefense.io/wp-content/uploads/cybercrime-report-2026/hacktivism-ddos/hacktivism-ddos-report-2026.html
+10. Red Hot Cyber — *NoName057(16) launches actor-branded clear-web .com site* (20 November 2026): https://www.redhotcyber.com/post/gli-hacker-filorussi-di-noname05716-sbarcano-sul-clear-web-aperto-il-sito-com/
+11. DarkOwl — *NoName057(16) Telegram Activity Assessment* (November 2026): https://www.darkowl.com/blog-content/noname05716-telegram-activity-assessment/
+12. Rai News — *Two groups claim refrigeration-system attacks* (4 November 2026): https://www.rainews.it/articoli/2026/11/due-gruppi-di-hacker-filorussi-rivendicano-gli-attacchi-ai-frigoriferi-7b449272-1283-4caa-8e6e-f7afabbe9035.html
 
 ---
 
