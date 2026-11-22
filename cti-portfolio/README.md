@@ -6,6 +6,8 @@ This portfolio presents sanitized case studies demonstrating my approach to cybe
 
 My independent research has included passive monitoring of open and restricted-access sources across Telegram, IRC and Tor-based services, with particular attention to hacktivist/DDoS ecosystems, ransomware/RaaS leak infrastructure, and threat-actor activity. I separate direct observations, actor claims, third-party reporting, independent telemetry and analytic inference, and I assign confidence accordingly.
 
+> **Latest case update — 22 November 2026:** The [NoName057(16) / DDoSia case](01-noname-ddosia.md) now covers post-Eastwood claim activity, the **16 November 2026 EU listing**, and **20 November reporting of an actor-branded surface-web portal**, with explicit differentiation between primary actor claims, third-party observations and independent technical telemetry. The new portal is distinct from the independent **witha.name** monitoring project. New findings are sourced and labelled as desk research rather than first-hand captures.
+
 ## Case studies
 
 1. [NoName057(16) / DDoSia — Monitoring an evolving pro-Russian hacktivist DDoS ecosystem](01-noname-ddosia.md)
